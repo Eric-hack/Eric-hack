@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 💻 Backend Developer in training (ProDev Backend Course)  
 - 📊 Background in IT Support within the Financial Industry  
-- 🌱 Currently learning **Node.js, Express, PostgreSQL, and DevOps practices**  
+- 🌱 Currently learning **Node.js, Express, PostgreSQL, and DevOps practices** in The Backend ProDev COurse with ALX 
 - 🎯 Goal: Build scalable, secure, and impactful software solutions  
 
 ## 🧑‍💼 Professional Experience
