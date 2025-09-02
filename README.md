@@ -13,7 +13,7 @@
   - Ensured data accuracy, security, and availability for critical decision-making processes  
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript (Node.js), SQL  
+- **Languages:** JavaScript (Node.js), SQL, Flutter, Python, HTML, CSS  
 - **Databases:** Oracle SQL, PostgreSQL  
 - **Backend:** Express.js  
 - **DevOps & Tools:** Git, GitHub, Docker, GitHub Actions  
