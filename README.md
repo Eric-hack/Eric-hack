@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 - **Languages:** JavaScript (Node.js), SQL, Flutter, Python, HTML, CSS  
-- **Databases:** Oracle SQL, PostgreSQL  
+- **Databases:** Oracle SQL, PostgreSQL,  MongoDB  
 - **Backend:** Express.js  
 - **DevOps & Tools:** Git, GitHub, Docker, GitHub Actions  
 - **Other:** Bash, REST APIs, Agile methodology  
