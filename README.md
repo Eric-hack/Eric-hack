@@ -9,7 +9,7 @@
 
 ## 🏆 Featured Project: E-Commerce Backend API
 
-**🔗 [Live API](https://your-app-name.onrender.com/)** | **📚 [API Docs](https://your-app-name.onrender.com/api/docs/)** | **💻 [Repository](https://github.com/Eric-hack/ecommerce-backend)**
+**🔗 [Live API](https://alx-project-nexus-aaao.onrender.com)** | **📚 [API Docs](https://alx-project-nexus.onrender.com/api/docs/)** | **💻 [Repository](https://github.com/Eric-hack/alx-project-nexus)**
 
 A production-ready RESTful API built with Django REST Framework, featuring:
 
@@ -120,13 +120,13 @@ Digital healthcare platform connecting patients with medical professionals acros
 ### 🛍️ E-Commerce Backend API
 Full-featured REST API for e-commerce applications
 - **Tech:** Django, PostgreSQL, Docker
-- **Live:** [View API Docs](https://your-app-name.onrender.com/)
+- **Live:** [View API Docs](https://alx-project-nexus-aaao.onrender.com)
 
 ---
 
 ## 📚 Certifications & Education
 
-- 🎓 **ALX ProDev Backend Program** - Advanced Backend Development
+- 🎓 **ALX ProDev Backend Program** - Advanced Backend Development (Current)
 - 💻 **IT Support Specialist** - Financial Industry Experience
 - 📊 **Oracle SQL Certified** - Database Management
 
@@ -146,7 +146,7 @@ I'm always interested in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-hackman/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-hack)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickobbyhackman2002@gmail.com)
 
 ---
 
